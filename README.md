@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrina</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shree-001&label=Profile%20views&color=0e75b6&style=flat" alt="shree-001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shree-001" alt="shree-001" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,8 +17,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shree-001&" alt="shree-001" /></p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Shree-001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Shree-001&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
